@@ -1,0 +1,50 @@
+# Project exclude paths
+/.gradle/
+/Car Sharing/task/build/
+/Car Sharing/task/out/
+/Car Sharing/task/out/production/classes/
+/Topics/BigDecimal/Deposit/out/
+/Topics/BigDecimal/Deposit/out/production/classes/
+/Topics/BigDecimal/Round and power/out/
+/Topics/BigDecimal/Round and power/out/production/classes/
+/Topics/Class Loader/What class loader is used/out/
+/Topics/Class Loader/What class loader is used/out/production/classes/
+/Topics/Collectors/ASCII Art/out/
+/Topics/Collectors/ASCII Art/out/production/classes/
+/Topics/Collectors/The product of squares/out/
+/Topics/Collectors/The product of squares/out/production/classes/
+/Topics/Dealing with modifiers/Modifiers support/out/
+/Topics/Dealing with modifiers/Modifiers support/out/production/classes/
+/Topics/Function composition/Disjunct all/out/
+/Topics/Function composition/Disjunct all/out/production/classes/
+/Topics/Function composition/Theory/build/
+/Topics/Infinite streams/Generating cats/out/
+/Topics/Infinite streams/Generating cats/out/production/classes/
+/Topics/Match results/Check the essay/out/
+/Topics/Match results/Check the essay/out/production/classes/
+/Topics/Match results/Extracting big numbers from a text/out/
+/Topics/Match results/Extracting big numbers from a text/out/production/classes/
+/Topics/Match results/Extracting words from a text/out/
+/Topics/Match results/Extracting words from a text/out/production/classes/
+/Topics/Match results/Find all passwords/out/
+/Topics/Match results/Find all passwords/out/production/classes/
+/Topics/Patterns and Matcher/Find a word with a given length/out/
+/Topics/Patterns and Matcher/Find a word with a given length/out/production/classes/
+/Topics/Patterns and Matcher/In the middle of a word/out/
+/Topics/Patterns and Matcher/In the middle of a word/out/production/classes/
+/Topics/Patterns and Matcher/Number parsing/out/
+/Topics/Patterns and Matcher/Number parsing/out/production/classes/
+/Topics/Patterns and Matcher/Start or end of a word/out/
+/Topics/Patterns and Matcher/Start or end of a word/out/production/classes/
+/Topics/Reduction methods/Calculating factorials/out/
+/Topics/Reduction methods/Calculating factorials/out/production/classes/
+/Topics/Reflection basics/Theory/out/
+/Topics/Reflection basics/Theory/out/production/classes/
+/Topics/Standard logger/Find integer values of Log levels/out/
+/Topics/Standard logger/Find integer values of Log levels/out/production/classes/
+/Topics/Stream filtering/Check if a number is prime/out/
+/Topics/Stream filtering/Check if a number is prime/out/production/classes/
+/Topics/Streams of primitives/A stream without zero/out/
+/Topics/Streams of primitives/A stream without zero/out/production/classes/
+/Topics/Taking elements/Secret codes/out/
+/Topics/Taking elements/Secret codes/out/production/classes/

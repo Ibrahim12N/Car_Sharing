@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Car Sharing/task" />
+            <option value="$PROJECT_DIR$/Car Sharing/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Car Sharing/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Car Sharing/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Car Sharing/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Car Sharing/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Car Sharing/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Average" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Deposit" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Round and power" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Rounding with a given precision" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Class Loader/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Class Loader/What class loader is used" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/ASCII Art" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/Set average" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/The product of squares" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Dealing with modifiers/Count public methods" />
+            <option value="$PROJECT_DIR$/Topics/Dealing with modifiers/List public fields" />
+            <option value="$PROJECT_DIR$/Topics/Dealing with modifiers/Modifiers support" />
+            <option value="$PROJECT_DIR$/Topics/Dealing with modifiers/Storing modifiers" />
+            <option value="$PROJECT_DIR$/Topics/Dealing with modifiers/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Assertion" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Find the error" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Proper tools" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/Disjunct all" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/The chain of responsibility" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/A sorted stream" />
+            <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/Count passwords" />
+            <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/Print elements of a stream" />
+            <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/Counting clicks" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Infinite streams/Generating cats" />
+            <option value="$PROJECT_DIR$/Topics/Infinite streams/Powers of two" />
+            <option value="$PROJECT_DIR$/Topics/Infinite streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Map and flatMap/Maximum of the absolute values" />
+            <option value="$PROJECT_DIR$/Topics/Map and flatMap/Sorting the absolute values" />
+            <option value="$PROJECT_DIR$/Topics/Map and flatMap/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Check the essay" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Extracting big numbers from a text" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Extracting words from a text" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Find all passwords" />
+            <option value="$PROJECT_DIR$/Topics/Match results/How many times it returns true" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Match results/What do we get" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Wrong move_" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Fix the sorting order" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Inverting streams" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Prime numbers" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Find a word with a given length" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/In the middle of a word" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Invoking matches and find" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Number parsing" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Start or end of a word" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Why use Pattern and Matcher" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Calculating factorials" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Range quadratic sum" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Sum of divisors" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Field count" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/.class Syntax" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Class object test" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Class retrieval" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Retrieve class name" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/getClass method" />
+            <option value="$PROJECT_DIR$/Topics/Retrieving Class instances/myClass variable" />
+            <option value="$PROJECT_DIR$/Topics/Standard logger/Filter" />
+            <option value="$PROJECT_DIR$/Topics/Standard logger/Find integer values of Log levels" />
+            <option value="$PROJECT_DIR$/Topics/Standard logger/Handler Classes" />
+            <option value="$PROJECT_DIR$/Topics/Standard logger/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stream filtering/Check if a number is prime" />
+            <option value="$PROJECT_DIR$/Topics/Stream filtering/Omitting long strings" />
+            <option value="$PROJECT_DIR$/Topics/Stream filtering/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/The sum of odd numbers" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/A stream without zero" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/The average salary" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Days of the week" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Taking elements/Secret codes" />
+            <option value="$PROJECT_DIR$/Topics/Taking elements/Sorting and skipping numbers" />
+            <option value="$PROJECT_DIR$/Topics/Taking elements/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Assertion" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
